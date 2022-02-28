@@ -260,19 +260,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4500,
+		"price": 15000,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4500,
+		"price": 15000,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4500,
+		"price": 15000,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -2366,7 +2366,7 @@
 	},
 	{
 		"abr": "joywire",
-		"price": 250,
+		"price": 2500,
 		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
@@ -3410,7 +3410,7 @@
 	},
 	{
 		"abr": "painstopper",
-		"price": 250,
+		"price": 5000,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -3896,7 +3896,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": 5000,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "rice",
-		"price": 2,
+		"price": 10,
 		"category": "Vegetarian",
 		"defname": "RawRice"
 	},
@@ -4478,7 +4478,7 @@
 	},
 	{
 		"abr": "smallshieldgenerator",
-		"price": 3983,
+		"price": 5000,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
 	},
@@ -5825,7 +5825,7 @@
 		"price": 13,
 		"category": "Raw resources",
 		"defname": "ConcreteSlab"
-	}
+	},
 	],
-	"total": 971
+	"total": 972
 }
