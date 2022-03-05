@@ -947,7 +947,7 @@
     },
     "description": null,
     "name": "Colonist count",
-    "usage": "!colonists",
+    "usage": "!pop",
     "userLevel": "Anyone",
     "shortcut": false
   },
