@@ -42,6 +42,12 @@
     "version": null
   },
   {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -84,14 +90,14 @@
     "version": "1.2.7365"
   },
   {
-    "author": "sy4",
-    "name": "[SY4] Vanilla-Friendly Weapon Pack",
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
     "version": null
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
+    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
     "version": null
   },
@@ -102,8 +108,80 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Cats and Dogs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Swamp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
+    "name": "Vanilla Animals Expanded — Caves",
+    "steamId": "2576512001",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Vanilla Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Anonymous, legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Extreme Desert",
     "steamId": null,
     "version": null
   },
@@ -114,8 +192,140 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Latta,  Skullywag and  Antaios",
     "name": "BetterCoolers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest",
+    "steamId": "2260502331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Australia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Boreal Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Luizi and  xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
     "steamId": null,
     "version": null
   },
@@ -186,18 +396,6 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  dninemfive and  Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
@@ -252,12 +450,6 @@
     "version": "3.4.91"
   },
   {
-    "author": "Telkir",
-    "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
@@ -272,18 +464,6 @@
   {
     "author": "Oskar Potocki and  Trunken",
     "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
     "steamId": null,
     "version": null
   },
@@ -306,16 +486,10 @@
     "version": "1.0.0"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Trunken",
     "name": "Vanilla Apparel Expanded",
-    "steamId": "1814987817",
-    "version": "1.2.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
@@ -378,14 +552,14 @@
     "version": "0.1.5.01"
   },
   {
-    "author": "Crlsniper",
-    "name": "Realistic Rooms",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
     "steamId": null,
     "version": null
   },
@@ -418,12 +592,6 @@
     "name": "Traders Have Money",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
   },
   {
     "author": "targhetti",
@@ -540,12 +708,6 @@
     "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Mining Priority",
-    "steamId": "1345928533",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Wemd",
     "name": "[WD] Fast Moisture Pumps",
     "steamId": null,
@@ -600,22 +762,22 @@
     "version": "0.1.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "TD Enhancement Pack",
-    "steamId": "1339135272",
-    "version": "1.3.8.0"
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Trait Rarity Colors",
-    "steamId": "1751884355",
-    "version": "1.3.0.0"
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7862.37403"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Enhancement Pack",
+    "steamId": "1339135272",
+    "version": "1.3.8.0"
   },
   {
     "author": "bodlosh",
@@ -651,12 +813,6 @@
     "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
-    "name": "Vanilla Animals Expanded — Caves",
-    "steamId": "2576512001",
     "version": "1.0.0.0"
   },
   {
@@ -848,6 +1004,18 @@
   {
     "author": "Fuglypump",
     "name": "Job Splitter",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Rainforest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
     "steamId": null,
     "version": null
   }
