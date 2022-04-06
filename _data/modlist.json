@@ -114,6 +114,12 @@
     "version": null
   },
   {
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.2.1.0"
+  },
+  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Tropical Swamp",
     "steamId": null,
@@ -146,6 +152,12 @@
   {
     "author": "Anonymous, legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garethp",
+    "name": "Animals Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -208,6 +220,12 @@
     "name": "Vanilla Animals Expanded — Temperate Forest",
     "steamId": "2260502331",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrus",
+    "name": "Biosculpter Pod and Neural Supercharger Resize",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
